@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome - I'm Alexander Khlebushchev, an independent software engineer. I maintain 100+ repositories, from focused developer tools to production-ready open-source libraries in Python and Rust. This is where I publish the source behind my work. If my approach resonates with your goals, I-m open to collaboration - feel free to reach out.
+Welcome - I'm Alexander Khlebushchev, an independent software engineer. I maintain 100+ repositories, from focused developer tools to production-ready open-source libraries in Python and Rust. This is where I publish the source behind my work. If my approach resonates with your goals, I'm open to collaboration - feel free to reach out.
 
 - Email: alexfomalhaut@gmail.com
 - Personal website: https://alexfomalhaut.com/
